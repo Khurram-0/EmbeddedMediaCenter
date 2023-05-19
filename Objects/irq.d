@@ -1,0 +1,11 @@
+.\objects\irq.o: bitbanding\IRQ.c
+.\objects\irq.o: C:\Users\zulfi\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h
+.\objects\irq.o: C:\Users\zulfi\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h
+.\objects\irq.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\irq.o: C:\Users\zulfi\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\irq.o: C:\Users\zulfi\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\irq.o: C:\Users\zulfi\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\irq.o: C:\Users\zulfi\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h
+.\objects\irq.o: C:\Users\zulfi\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\objects\irq.o: bitbanding\LED.h
+.\objects\irq.o: C:\Users\zulfi\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.15.0\Board\Board_ADC.h
